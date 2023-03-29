@@ -9,4 +9,4 @@
 <p>🌱 Estou aprendendo Javascript e Typescript </p>
 <p> ⚡ Amo UX Design! </p>
 
-<https://github-readme-stats.vercel.app/api/top-langs/?louisefernandes=anuraghazra&hide_progress=true)>
+
