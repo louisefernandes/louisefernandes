@@ -5,8 +5,8 @@
 --!>
 
 
-🔭 Sou estudante de Sistemas para Internet no IFPB
-🌱 Estou aprendendo Javascript e Typescript 
-⚡ Amo UX Design! 
+* 🔭 Sou estudante de Sistemas para Internet no IFPB
+* 🌱 Estou aprendendo Javascript e Typescript 
+* ⚡ Amo UX Design! 
 
 
