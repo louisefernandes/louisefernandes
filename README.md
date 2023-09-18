@@ -6,7 +6,5 @@
 
 
 <p>🔭 Sou estudante de Sistemas para Internet no IFPB </p>
-<p>🌱 Estou aprendendo Javascript e Typescript </p>
-<p> ⚡ Amo UX Design! </p>
 
 
